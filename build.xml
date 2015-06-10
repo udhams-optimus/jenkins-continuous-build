@@ -3,7 +3,7 @@
 
   <PropertyGroup>
     <Build>$(MSBuildProjectDirectory)\Build</Build>
-    <ProjectFile>TestApplication.vbproj</ProjectFile> 
+    <ProjectFile>TestApplication\TestApplication.vbproj</ProjectFile> 
     <ProjectName>TestApplication</ProjectName>
     <CopyTo>E:\TestWebsite</CopyTo>
   </PropertyGroup> 
