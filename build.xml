@@ -3,8 +3,8 @@
 
   <PropertyGroup>
     <Build>$(MSBuildProjectDirectory)\Build</Build>
-    <ProjectFile>WebApplication2\WebApplication2.csproj</ProjectFile> 
-    <ProjectName>WebApplication2</ProjectName>
+    <ProjectFile>SampleApplication\SampleApplication.csproj</ProjectFile> 
+    <ProjectName>SampleApplication</ProjectName>
     <CopyTo>C:\TestWebsite</CopyTo>
   </PropertyGroup> 
 
